@@ -40,3 +40,5 @@ This section is used to practice rebase merging.
 Each commit should remain visible on main.
 
 Direct push test.
+
+PR template test.
