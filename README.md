@@ -13,3 +13,9 @@ This repository is used to practice Git and Github workflows.
 6. Review the changes
 7. Merge into main
 8. Switch to main and pull the latest changes
+
+## Branch Rules
+
+- Do not edit main directly.
+- Use one branch for each task.
+- After merging, switch to main and pull the latest changes.
