@@ -27,3 +27,7 @@ Added by developer A.
 ## Developer B
 
 Added by developer B.
+
+## Squash Practice
+
+This section is used to practice squash merging.
