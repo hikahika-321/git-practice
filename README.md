@@ -1,5 +1,5 @@
 # git-practice
-Practice repository for Git and GitHub workflows
+Practice repository for team Git and GitHub practice
 
 This repository is used to practice Git and Github workflows.
 
