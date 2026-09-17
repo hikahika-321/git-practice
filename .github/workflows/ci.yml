@@ -1,0 +1,19 @@
+name: README Check
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  readme-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify README
+        run: |
+          test -f README.md
+          grep -q "## Branch Rules" README.md
