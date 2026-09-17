@@ -1,8 +1,5 @@
 # git-practice
-Practice repository for team Git and GitHub practice
-
-This repository is used to practice Git and Github workflows.
-
+P
 ## Git Workflow
 
 1. Create a branch
@@ -39,3 +36,7 @@ Two commits will become one commit on main.
 This section is used to practice rebase merging.
 
 This section is used to practice rebase merging.
+
+Each commit should remain visible on main.
+
+Direct push test.
