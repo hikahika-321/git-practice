@@ -33,3 +33,5 @@ Added by developer B.
 This section is used to practice squash merging.
 
 Two commits will become one commit on main.
+
+## Rebase Practice
