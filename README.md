@@ -19,3 +19,7 @@ This repository is used to practice Git and Github workflows.
 - Do not edit main directly.
 - Use one branch for each task.
 - After merging, switch to main and pull the latest changes.
+
+## Developer A
+
+Added by developer A.
