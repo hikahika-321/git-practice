@@ -37,3 +37,5 @@ Two commits will become one commit on main.
 ## Rebase Practice
 
 This section is used to practice rebase merging.
+
+This section is used to practice rebase merging.
