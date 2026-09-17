@@ -31,8 +31,7 @@ This section is used to practice squash merging.
 
 Two commits will become one commit on main.
 
-## Rebase Practice
-
+## Branch Rules Test
 This section is used to practice rebase merging.
 
 This section is used to practice rebase merging.
