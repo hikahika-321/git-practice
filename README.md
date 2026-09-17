@@ -23,3 +23,7 @@ This repository is used to practice Git and Github workflows.
 ## Developer A
 
 Added by developer A.
+
+## Developer B
+
+Added by developer B.
