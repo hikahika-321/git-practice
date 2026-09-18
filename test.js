@@ -1,3 +1,7 @@
 const title = "ESLint test";
 
-document.title = title;
+function buildPageTitle(label) {
+  return `${label} | Git Practice`;
+}
+
+document.title = buildPageTitle(title);
