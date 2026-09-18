@@ -16,14 +16,20 @@
   },
 
   "hooks": {
-    "FileChanged": [
+    "PostToolUse": [
       {
-        "matcher": "test.js",
+        "matcher": "Edit|Write",
         "hooks": [
           {
             "type": "command",
-            "shell": "powershell",
-            "command": "Add-Content -Path \"$env:TEMP\\claude-filechanged-hook.log\" -Value \"FileChanged fired: $(Get-Date -Format o)\""
+            "command": "powershell.exe",
+            "args": [
+              "-NoProfile",
+              "-ExecutionPolicy",
+              "Bypass",
+              "-File",
+              "${CLAUDE_PROJECT_DIR}/.claude/hooks/lint-edited-js.ps1"
+            ]
           }
         ]
       }
