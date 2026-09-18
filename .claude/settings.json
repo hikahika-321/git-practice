@@ -10,7 +10,15 @@
       "PowerShell(git rebase *)",
       "PowerShell(git reset *)",
       "PowerShell(git clean *)",
-      "PowerShell(Remove-Item *)"
+      "PowerShell(Remove-Item *)",
+
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git merge *)",
+      "Bash(git rebase *)",
+      "Bash(git reset *)",
+      "Bash(git clean *)",
+      "Bash(rm *)"
     ],
     "deny": ["Read(./.env)", "Read(./.env.*)"]
   },
