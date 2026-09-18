@@ -46,3 +46,8 @@ Direct push test.
 PR template test.
 
 Test..
+
+
+## Collaboration Practice
+
+This update simulates another team member changing main.
